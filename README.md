@@ -4,7 +4,6 @@
 
 - 🔭 Currently working on a web development project!
 - 🌱 Currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play mobile and pc games😁
 
 
