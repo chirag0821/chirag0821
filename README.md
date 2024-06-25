@@ -2,7 +2,6 @@
 
 ## I'm a Computer Engineering Student
 
-- 🔭 Currently working on a web development project!
 - 🌱 Currently learning everything 🤣
 - ⚡ Fun fact: I love to play mobile and pc games😁
 
